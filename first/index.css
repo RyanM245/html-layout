@@ -11,17 +11,26 @@ body {
     width: 100%;
 }
 
-.main-guy {
+.lefty {
     background-color: darkgray;
-    height: 70vh;
-    width: 75%;
-    margin: auto;
+    float: left;
+    height: 100vh;
+    width: 10%;
 }
 
-.foot-boi {
+.right {
+    background-color: darkgray;
+    float: right;
+    height: 100vh;
+    width: 10%;
+}
+
+.foot {
     background-color: brown;
-    height: 20vh;
-    width: 75%;
-    margin: auto;
+    height: 10vh;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    
     
 }
