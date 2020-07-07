@@ -1,0 +1,27 @@
+body {
+    background-color: cyan;
+    height: 100vh;
+    width: 100%;
+    margin: auto;
+}
+
+.cool-header {
+    background-color: brown;
+    height: 20VH;
+    width: 100%;
+}
+
+.main-guy {
+    background-color: darkgray;
+    height: 70vh;
+    width: 75%;
+    margin: auto;
+}
+
+.foot-boi {
+    background-color: brown;
+    height: 20vh;
+    width: 75%;
+    margin: auto;
+    
+}
