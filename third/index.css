@@ -1,0 +1,38 @@
+.head {
+    background-color: purple;
+    width: 100%;
+    height: 100px;
+}
+.menu {
+    background-color: rebeccapurple;
+    width: 75px;
+    height: 75px;
+    margin: 10px;
+    display: inline-block;
+}
+.senate {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    margin: 20px;
+}
+.red {
+    background-color: red;
+    width: 100%;
+    height: 100px;
+}
+.orange {
+background-color: orange;
+width: 100%;
+    height: 100px;
+}
+.yellow {
+background-color: yellow;
+width: 100%;
+    height: 100px;
+}
+.green {
+background-color: green;
+width: 100%;
+    height: 100px;
+}
