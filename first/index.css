@@ -1,36 +1,28 @@
 body {
-    background-color: cyan;
-    height: 100vh;
+    background-color: lightgrey;
     width: 100%;
-    margin: auto;
+    height: 100%;
+    margin: 0;
 }
 
-.cool-header {
-    background-color: brown;
-    height: 20VH;
+.header {
+    background-color: #4d4d4d;
     width: 100%;
+    height: 20vh;
 }
 
-.lefty {
-    background-color: darkgray;
-    float: left;
-    height: 100vh;
-    width: 10%;
+.content-mid {
+    background-color: white;
+    width: 75%;
+    height: 70vh;
+    margin: 0 auto;
 }
 
-.right {
-    background-color: darkgray;
-    float: right;
-    height: 100vh;
-    width: 10%;
-}
 
-.foot {
-    background-color: brown;
+.content-footer {
+    background-color: black;
+    width: 75%;
     height: 10vh;
-    width: 100%;
-    position: absolute;
-    bottom: 0;
-    
-    
+    margin: 0 auto;
+    color: white;
 }
